@@ -125,7 +125,12 @@ Relacionamentos: `1 sala : N horarios_disponiveis` e `1 sala : N reservas`, com 
 
 ## 🎥 Tutorial em Vídeo
 
-> Link do vídeo demonstrando a navegação do site e as operações de CRUD: **[adicionar link aqui]**
+> Link do vídeo demonstrando a navegação do site e as operações de CRUD: 
+
+
+https://github.com/user-attachments/assets/04f8a79a-5c2e-4373-82d4-7b497a76a66f
+
+
 
 ---
 
